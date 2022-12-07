@@ -27,4 +27,5 @@
 
 mainConfiguration: https://github.com/bilalafzal-ti/bilalafzal-ti
 
-image: ubuntu:latest
+image:
+  file: .gitpod.Dockerfile
