@@ -29,3 +29,7 @@ mainConfiguration: https://github.com/bilalafzal-ti/bilalafzal-ti
 
 image:
   file: .gitpod.Dockerfile
+
+tasks:
+  - name: secondary
+    command: echo "2. Second configuration file's task running"
